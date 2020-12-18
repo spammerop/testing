@@ -207,20 +207,11 @@ def start(update: Update, context: CallbackContext):
                      [
                          InlineKeyboardButton(
                              text="HELP KE LIYE",
-                             url=f"https://t.me/{SUPPORT_CHAT}"),
+                             url=f"https://t.me/madhav62644"),
                          InlineKeyboardButton(
-                             text="🔔 Updates Channel",
-                             url="https://t.me/OnePunchUpdates")
-                     ],
-                     [
-                         InlineKeyboardButton(
-                             text="🧾 Getting started guide",
-                             url="https://t.me/OnePunchUpdates/29")
-                     ],
-                     [
-                         InlineKeyboardButton(
-                             text="🗄 Source code",
-                             url="https://github.com/AnimeKaizoku/SaitamaRobot")
+                             text="🔔 RAIDER KE OWNER",
+                             url="https://t.me/madhav62644")
+                     
                      ]]))
     else:
         update.effective_message.reply_text(

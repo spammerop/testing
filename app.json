@@ -1,6 +1,6 @@
 {
-      "name": "SaitamaRobot",
-      "description": "An Anime themed Telegram group management bot.",
+      "name": "RAIDERS",
+      "description": "FIGHTING GROUP MANAGER BOT.",
       "keywords": [
          "telegram",
          "anime",
@@ -8,7 +8,7 @@
          "manager",
          "Saitama"
       ],   
-   "repository": "https://github.com/AnimeKaizoku/SaitamaRobot",
+   "repository": "https://github.com/spammerop/testing",
    "addons": [
       {
          "options": {
